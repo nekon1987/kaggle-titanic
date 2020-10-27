@@ -1,0 +1,13 @@
+!!python/object:borova.engine.data_variation.Variat
+GeneratedVariables:
+  ag1: 7.779496187552224
+  ag2: 18.091146460965074
+  ag3: 27.512358853726553
+  ag4: 37.29686176135769
+  epochs: 557.2782869565781
+  fr1: 6.898129968957418
+  fr2: 14.353876597863177
+  fr3: 33.08811516414838
+  split: 0.9391989532840399
+  title_one_hot_encode: false
+  title_scaling_to_one: false
